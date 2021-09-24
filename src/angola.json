@@ -3,7 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "provincia": "Kwando-Kubango" },
+      "properties": { 
+        "provincia": "Kwando-Kubango" ,
+        "capital": "Menongue",
+        "clima": "subtropical úmido",
+        "populacao": "601.454[1] hab. (2018)",
+        "area": "199.049 km²",
+        "linguas": ["português", "ganguelas"],
+        "grupo_etico": ["ganguelas", "chócues" ," xindongas","ovambos","coissãs"]
+
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
